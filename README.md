@@ -16,8 +16,8 @@ I am an **Eagle Scout** currently serving as the **Operations Officer for Space 
 * 🛡️ **AFROTC Field Training:** Late summer leadership evaluation and field exercises.
 * 💻 **Cyber Immersion:** Attending intensive camps (e.g., *Cyber GoldMINE*) focusing on Memory Forensics, Reverse Engineering, and Critical Infrastructure.
 
-### 🛠️ Tools & Tech
-* **Languages:** C++, Python, Java, Verilog
+### 🛠️ Tools & Tech (Learning)
+* **Languages:** C++, Python, Verilog
 * **Cyber & Systems:** Network Forensics, System Support, Cryptography, Linux
 * **Interests:** Cybersecurity Innovation, National Defense, Space Systems
 
