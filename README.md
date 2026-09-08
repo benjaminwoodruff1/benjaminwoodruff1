@@ -2,7 +2,15 @@
 
 I'm **Ben**, a Computer Engineering major and Space Force contracted cadet in the **Corps of Cadets** at Texas A&M University. Loudest and Proudest member of the Fightin' Texas Aggie Class of '28! **Whoop!** 🤠
 
-I am an **Eagle Scout** currently serving as the **Operations Officer for Space Delta Zero**. I’m focused on building secure software and protecting private network infrastructure within the tech and national defense industries.
+I am an **Eagle Scout** currently serving as the **Operations Officer for Space Delta Zero**. I'm focused on building secure software and protecting private network infrastructure within the tech and national defense industries.
+
+---
+
+### 🚀 Featured Project
+
+**[Dynamic Embedded Logger](https://github.com/benjaminwoodruff1/Dynamic-Embedded-Logger)** (C++)
+
+A zero-overhead C++ logging library built for real-time embedded systems. Uses a short-circuit boolean gate plus per-subsystem severity filtering so disabled log calls cost nothing on hot paths, backed up with a disassembly-verified proof (not just a claim) and a GTest + Robot Framework test suite. Includes finding and fixing a real linker-level ODR bug along the way.
 
 ---
 
@@ -16,10 +24,11 @@ I am an **Eagle Scout** currently serving as the **Operations Officer for Space 
 * 🛡️ **AFROTC Field Training:** Late summer leadership evaluation and field exercises.
 * 💻 **Cyber Immersion:** Attending intensive camps (e.g., *Cyber GoldMINE*) focusing on Memory Forensics, Reverse Engineering, and Critical Infrastructure.
 
-### 🛠️ Tools & Tech (Learning)
-* **Languages:** C++, Python, Verilog
-* **Cyber & Systems:** Network Forensics, System Support, Cryptography, Linux
-* **Interests:** Cybersecurity Innovation, National Defense, Space Systems
+### 🛠️ Tools & Tech
+* **Languages:** C/C++, Python, Verilog
+* **Security:** Reverse Engineering, Threat Hunting, Memory Forensics, Cryptography
+* **Tools:** Git, CMake, GDB, GTest, Robot Framework, Wireshark, LTspice, Vivado, Ghidra, Cutter, Kali Linux, Xen Orchestra, Claude/ChatGPT (AI-assisted development)
+* **Systems:** Linux/WSL, Network Forensics
 
 ### 🌵 A Bit About Me
 * 🏟️ **12th Man:** Always at Kyle Field for Aggie Football.
